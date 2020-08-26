@@ -1,16 +1,25 @@
 ### 嗨 👋🏽, 我是[XMapst](https://www.yfdou.com)!
 
+Hi, I'm , a Full Stack Developer 🚀 from China.
 
-**xmapst/XMapst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages and Tools:**  
 
-Here are some ideas to get you started:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![my github stats](https://github-readme-stats.vercel.app/api?username=xmapst&show_icons=true&hide_border=true)
 
+⭐️ From [XMapst](https://github.com/xmapst)
+
+
+<a href="https://github.com/xmapst/Profiles">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xmapst&repo=Profiles" />
+</a>
+<a href="https://github.com/xmapst/v2_ui">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xmapst&repo=v2_ui" />
+</a>
