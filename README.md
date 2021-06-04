@@ -23,4 +23,4 @@ Hi, I'm , a Full Stack Developer 🚀 from China.
 <a href="https://github.com/xmapst/OpenWrt-CM4">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xmapst&repo=OpenWrt-CM4" />
 </a>
-![Build Raspberry Pi Compute Module 4 Openwrt For Offical](https://github.com/xmapst/OpenWrt-CM4/actions/workflows/build-offical-openwrt-for-cm4.yaml/badge.svg)
+[![Build Raspberry Pi Compute Module 4 Openwrt For Offical](https://github.com/xmapst/OpenWrt-CM4/actions/workflows/build-offical-openwrt-for-cm4.yaml/badge.svg)](https://github.com/xmapst/OpenWrt-CM4/actions/workflows/build-offical-openwrt-for-cm4.yaml)
