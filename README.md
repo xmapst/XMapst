@@ -20,6 +20,6 @@ Hi, I'm , a Full Stack Developer 🚀 from China.
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xmapst&repo=kubefilebrowser" />
 </a>
 
-<a href="https://github.com/xmapst/OpenWrt-CM4">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xmapst&repo=OpenWrt-CM4" />
+<a href="https://github.com/xmapst/WindowsRemoteExecutionApi">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xmapst&repo=WindowsRemoteExecutionApi" />
 </a>
