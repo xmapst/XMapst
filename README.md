@@ -27,3 +27,7 @@ Hi, I'm , a Full Stack Developer 🚀 from China.
 <a href="https://github.com/xmapst/rinetdweb">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xmapst&repo=rinetdweb" />
 </a>
+
+<a href="https://github.com/xmapst/NexusImageClean">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xmapst&repo=NexusImageClean" />
+</a>
