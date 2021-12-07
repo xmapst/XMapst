@@ -25,6 +25,10 @@ Hi, I'm , a Full Stack Developer 🚀 from China.
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xmapst&repo=osreapi" />
 </a></div>
 
+<div><a href="https://github.com/xmapst/ack-autoscaler">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xmapst&repo=ack-autoscaler" />
+</a></div>
+
 <div><a href="https://github.com/xmapst/gozip">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xmapst&repo=gozip" />
 </a></div>
